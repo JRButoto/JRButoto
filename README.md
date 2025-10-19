@@ -7,8 +7,8 @@ I'm a data science graduate student passionate about machine learning, computer 
 ### 🚀 About Me
 
 - 🔭 Working on **Innovative Truck Parking Availability System (iTPAS)** research with FDOT
-- 🎯 Focus areas: **Computer Vision**, **Deep Learning**, **Data Science**
-- 📚 Master's student in Data Science (Thesis track) with a 4.0 GPA
+- 🎯 Focus areas: **Computer Vision**, **Machine Learning**, **Data Science**
+- 📚 Master's student in Data Science
 - 🌱 Currently deepening my expertise in advanced ML techniques and cloud deployment
 - 📝 Co-authored a paper accepted for **TRB 2026 Annual Meeting**
 
