@@ -71,7 +71,7 @@ I'm a data science graduate student passionate about machine learning, computer 
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/john-r-butoto/" target="_blank">
+  <a href="https://www.linkedin.com/in/jrbutoto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:johnbutoto@gmail.com">
