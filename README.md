@@ -45,7 +45,7 @@ I'm a data science graduate student passionate about machine learning, computer 
 - Analyzed YOLOv8 performance on 5,550+ images across 20 rest areas
 - Developed automated data processing pipelines integrating image, weather, and occupancy datasets
 - Conducted comprehensive field studies evaluating camera mounting parameters
-- **Impact**: Recommendations directly informed FDOT's future truck parking strategy
+- **Impact**: Recommendations directly informed future truck parking strategy
 
 #### 🐕 Dog Breed Classification System
 - Built a two-stage deep learning pipeline achieving **90.2% validation accuracy**
