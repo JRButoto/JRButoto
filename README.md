@@ -6,11 +6,10 @@ I'm a data science graduate student passionate about machine learning, computer 
 
 ### 🚀 About Me
 
-- 🔭 Working on **Innovative Truck Parking Availability System (iTPAS)** research with FDOT
+- 🔭 Working on AI-powered truck parking detection and analysis system research
 - 🎯 Focus areas: **Computer Vision**, **Machine Learning**, **Data Science**
 - 📚 Master's student in Data Science
 - 🌱 Currently deepening my expertise in advanced ML techniques and cloud deployment
-- 📝 Co-authored a paper accepted for **TRB 2026 Annual Meeting**
 
 ### 🛠️ Tech Stack
 
