@@ -1,17 +1,17 @@
-# Hi there, I'm John Butoto 👋
+# Hi there, I'm John Butoto
 
 ## 🎓 Graduate Research Assistant @ University of North Florida
 
 I'm a data science graduate student passionate about machine learning, computer vision, and building intelligent systems that solve real-world problems. Currently conducting research on innovative transportation systems while pursuing my MS in Computer & Information Sciences.
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Working on AI-powered truck parking detection and analysis system research
-- 🎯 Focus areas: **Computer Vision**, **Machine Learning**, **Data Science**
-- 📚 Master's student in Data Science
-- 🌱 Currently deepening my expertise in advanced ML techniques and cloud deployment
+-  Working on AI-powered truck parking detection and analysis system research
+-  Focus areas: **Computer Vision**, **Machine Learning**, **Data Science**
+-  Master's student in Data Science
+-  Currently deepening my expertise in advanced ML techniques and cloud deployment
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,35 +39,26 @@ I'm a data science graduate student passionate about machine learning, computer 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🏆 Key Projects & Achievements
+###  Key Projects & Achievements
 
-#### 🚛 iTPAS Research Project
+####  iTPAS Research Project
 - Analyzed YOLOv8 performance on 5,550+ images across 20 rest areas
 - Developed automated data processing pipelines integrating image, weather, and occupancy datasets
 - Conducted comprehensive field studies evaluating camera mounting parameters
 - **Impact**: Recommendations directly informed future truck parking strategy
 
-#### 🐕 Dog Breed Classification System
+####  Dog Breed Classification System
 - Built a two-stage deep learning pipeline achieving **90.2% validation accuracy**
 - Implemented YOLOv11 for dog detection and Xception CNN for breed classification
 - Processed 20,580 images across 120 dog breeds with advanced preprocessing techniques
 
-#### 💬 RAG-Powered Chatbot Development
+####  RAG-Powered Chatbot Development
 - Designed and deployed intelligent chatbots using Retrieval-Augmented Generation
 - Integrated with backend systems using FastAPI for scalable deployment
 - Enhanced contextual accuracy and data retrieval capabilities
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrbutoto&show_icons=true&theme=dark&hide_border=true" alt="John's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrbutoto&theme=dark&hide_border=true" alt="John's GitHub Streak" />
-</p>
-
-### 🤝 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jrbutoto/" target="_blank">
